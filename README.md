@@ -70,6 +70,12 @@ That’s hundreds of thousands saved.
 
 ## 🛠️ Technical Stack
 
+### 🌐 Application Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NextJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 ### 🚀 Orchestration & Containers
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
@@ -98,7 +104,6 @@ That’s hundreds of thousands saved.
 
 Build and advise **10–20 scalable SaaS platforms**
 Partner with funded startups globally
-Generate $500k+ through high-impact technical leadership
 
 Not by coding alone —
 But by building systems that multiply engineering output.
